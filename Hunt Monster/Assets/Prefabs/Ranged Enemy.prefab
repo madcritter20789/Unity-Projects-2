@@ -407,6 +407,12 @@ MonoBehaviour:
   speed: 7.5
   timeBetweenAttacks: 2
   damage: 1
+  pickupChance: 0
+  pickups: []
+  healthPickupChance: 0
+  healthPickup: {fileID: 1584404084459825574, guid: 08db89ef9294deb4abbceca290479f78, type: 3}
+  deathEffect: {fileID: 1079474003464606271, guid: c5b36ff051f514642860e9409f263d57, type: 3}
+  blood: {fileID: 8841859131922799274, guid: c4b9125d4cf2f264ab449dc2de83d645, type: 3}
   stopDistance: 10
   enemyBullet: {fileID: 2730983038620796529, guid: 7c2178c99cdf52948a37c32526e7c935, type: 3}
   shotPoint: {fileID: 1840007025}

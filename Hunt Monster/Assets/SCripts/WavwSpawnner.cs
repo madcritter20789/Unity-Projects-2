@@ -24,7 +24,7 @@ public class WavwSpawnner : MonoBehaviour
     public GameObject boss;
     public Transform bossSpawnPoint;
 
-    //public GameObject healthBar;
+    public GameObject healthBar;
     
 
     private void Start()
@@ -48,7 +48,7 @@ public class WavwSpawnner : MonoBehaviour
                 {
                 Debug.Log("Game Over");
                 Instantiate(boss, bossSpawnPoint.position, bossSpawnPoint.rotation);
-                //healthBar.SetActive(true);
+                healthBar.SetActive(true);
                 }
 
             }

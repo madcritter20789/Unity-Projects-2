@@ -32,7 +32,7 @@ public class Weapon : MonoBehaviour
             if (Time.time >= shotTime)
             {
                 Instantiate(projectile, shotPoint.position, transform.rotation);
-               // cameraAnim.SetTrigger("shake");
+                cameraAnim.SetTrigger("shake");
                 shotTime = Time.time + timeBetweenShots;
             }
         }

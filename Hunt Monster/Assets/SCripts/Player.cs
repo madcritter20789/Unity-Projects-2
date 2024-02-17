@@ -16,12 +16,17 @@ public class Player : MonoBehaviour
     public Sprite fullHeart;
     public Sprite emptyHeart;
 
+    public Animator hurtAnim;
+
+    private SceneTransitions sceneTransitions;
+
 
     // Start is called before the first frame update
     void Start()
     {
         anim = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
+        sceneTransitions = FindObjectOfType<SceneTransitions>();
     }
 
     // Update is called once per frame
@@ -49,9 +54,11 @@ public class Player : MonoBehaviour
     {
         health -= amount;
         UpdateHealth(health);
+        hurtAnim.SetTrigger("hurt");
         if (health <= 0)
-        {   
+        {
             Destroy(this.gameObject);
+            sceneTransitions.LoadScene("Lose");
         }
     }
 

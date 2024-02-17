@@ -13,38 +13,38 @@ public class Boss : MonoBehaviour
     private Animator anim;
 
     public int damage;
-    /*
+    
     public GameObject blood;
     public GameObject effect;
-
+    
     private Slider healthBar;
-    */
-    private SceneTranisions sceneTransitions;
+    
+    private SceneTransitions sceneTransitions;
 
     private void Start()
     {
         halfHealth = health / 2;
-        anim = GetComponent<Animator>();/*
+        anim = GetComponent<Animator>();
         healthBar = FindObjectOfType<Slider>();
         healthBar.maxValue = health;
         healthBar.value = health;
-        sceneTransitions = FindObjectOfType<SceneTranisions>();*/
+        sceneTransitions = FindObjectOfType<SceneTransitions>();
     }
 
     public void TakeDamage(int amount)
     {
         health -= amount;
-        //healthBar.value = health;
+        healthBar.value = health;
         if (health <= 0)
         {
-            /*
+            
             Instantiate(effect, transform.position, Quaternion.identity);
             Instantiate(blood, transform.position, Quaternion.identity);
-            */
+            
             Destroy(this.gameObject);
 
-            //healthBar.gameObject.SetActive(false);
-            //sceneTransitions.LoadScene("Win");
+            healthBar.gameObject.SetActive(false);
+            sceneTransitions.LoadScene("Win");
         }
 
         if (health <= halfHealth)

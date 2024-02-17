@@ -132,6 +132,8 @@ MonoBehaviour:
   - {fileID: 559547755966642062, guid: faff83a5b7d762249ac7276efe7bfe33, type: 3}
   healthPickupChance: 75
   healthPickup: {fileID: 1584404084459825574, guid: 08db89ef9294deb4abbceca290479f78, type: 3}
+  deathEffect: {fileID: 1079474003464606271, guid: c5b36ff051f514642860e9409f263d57, type: 3}
+  blood: {fileID: 8841859131922799274, guid: c4b9125d4cf2f264ab449dc2de83d645, type: 3}
   stopDistance: 10
   attackSpeed: 8
 --- !u!1 &5437625276603315770
