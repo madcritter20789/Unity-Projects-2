@@ -40,7 +40,7 @@ The game features **three types of weapons, each with varying shooting power and
 **Boss Fight**  
 After surviving several waves, a Boss Monster appears. **The boss can summon smaller monsters and enters a second phase when its health drops below half, where it becomes faster and more aggressive**.
 
-Game Demo:
+Game Demo:  
 ![Uploading Hunt Monster.gif…]()
 
 ## QuizMania
@@ -52,7 +52,7 @@ If an incorrect answer is selected, the game will reveal the correct option befo
 Regardless of whether the answer is correct or incorrect, players will proceed to the next question.  
 At the **end of the quiz, players are shown their total score**.
 
-Game Demo:
+Game Demo:  
 ![QuizMania-GIF](https://github.com/user-attachments/assets/f3fc49c1-5f9a-40c0-97ed-1fda65352d2e)
 
 ## Snowboarding
@@ -65,7 +65,7 @@ Use the **Left and Right Arrow keys to rotate the character for stunts**.
 The objective is to reach the end of the course while performing tricks along the way.  
 If the character falls on its head or body, the game will restart, adding an element of challenge and encouraging players to master their controls.  
 
-Game Demo:
+Game Demo:  
 ![SnowBorading-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/4b164a8a-b621-454f-9699-b8aaabdd881a)
 
 ## TileTrek
@@ -79,7 +79,7 @@ Beware of traps scattered throughout the dungeon; falling into one will cause th
 The dungeon also features ladders that players can climb to access different levels and areas.  
 **The main goal is to locate the exit button within the dungeon. Upon reaching the exit, players advance to the next level.**  
 
-Game Demo:
+Game Demo:  
 ![TileTrek-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/b3876c7f-7165-44a1-aa5d-df693c748dd1)
 
 ## Turbo Delivery
@@ -92,6 +92,6 @@ The car will **return to its original color once the package is delivered to the
 The package is represented by a **light blue color**, while the drop location is marked in **blue**, providing clear visual cues for players.  
 Players can also collect a **yellow circle power-up** that **boosts the car's speed**.
 
-Game Demo:
+Game Demo:  
 ![TurboDelivery-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e89a047d-815f-4af6-ab22-8aa7b586c1ee)
 
