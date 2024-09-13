@@ -41,7 +41,7 @@ The game features **three types of weapons, each with varying shooting power and
 After surviving several waves, a Boss Monster appears. **The boss can summon smaller monsters and enters a second phase when its health drops below half, where it becomes faster and more aggressive**.
 
 Game Demo:  
-![HuntMonster-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/839f942f-854b-494d-be83-f92f0b15ff54)![HuntMonster-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/9912d8b8-7d6e-4d01-9da2-6a082acbb76e)
+![HuntMonster-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/839f942f-854b-494d-be83-f92f0b15ff54)  ![HuntMonster-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/9912d8b8-7d6e-4d01-9da2-6a082acbb76e)
 
 
 ## QuizMania
