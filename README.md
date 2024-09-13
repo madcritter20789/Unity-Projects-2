@@ -66,6 +66,7 @@ The objective is to reach the end of the course while performing tricks along th
 If the character falls on its head or body, the game will restart, adding an element of challenge and encouraging players to master their controls.  
 
 Game Demo:
+![SnowBorading-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/4b164a8a-b621-454f-9699-b8aaabdd881a)
 
 ## TileTrek
 
@@ -79,7 +80,7 @@ The dungeon also features ladders that players can climb to access different lev
 **The main goal is to locate the exit button within the dungeon. Upon reaching the exit, players advance to the next level.**  
 
 Game Demo:
-Link
+![TileTrek-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/b3876c7f-7165-44a1-aa5d-df693c748dd1)
 
 ## Turbo Delivery
 
@@ -92,4 +93,5 @@ The package is represented by a **light blue color**, while the drop location is
 Players can also collect a **yellow circle power-up** that **boosts the car's speed**.
 
 Game Demo:
-Link
+![TurboDelivery-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e89a047d-815f-4af6-ab22-8aa7b586c1ee)
+
