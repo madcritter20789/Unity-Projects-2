@@ -4,7 +4,7 @@
 It is a 2D platformer game where you control the character using the W, A, S, D keys or arrow keys for movement and jumping. The **goal is to collect as many coins as possible and reach the end of the level to advance to the next stage**. There are three types of coins, each awarding different points when collected.
 
 Game Demo:  
-![2DPlatformer-GIF](https://github.com/user-attachments/assets/06ec7c42-a771-4035-8124-b064f20daf55)
+![2DPlatformer-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/6e4698cd-f0f2-4543-ad70-facabe202652)
 
 ## Balloon Escape
 
@@ -17,7 +17,7 @@ The game features two types of power-ups:
 However, if you get caught in a trap, the game restarts from the beginning. Successfully reaching the end of the dungeon lets you progress to the next level.
 
 Game Demo:  
-![BalloonEscape-GIF](https://github.com/user-attachments/assets/35c23f67-5c70-4a87-bc5d-c8ca9659e582)
+![BalloonEscape-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/821447eb-b505-438e-91e1-5aa4055cba54)
 
 ## Hunt Moster
 
@@ -54,7 +54,7 @@ Regardless of whether the answer is correct or incorrect, players will proceed t
 At the **end of the quiz, players are shown their total score**.
 
 Game Demo:  
-![QuizMania-GIF](https://github.com/user-attachments/assets/f3fc49c1-5f9a-40c0-97ed-1fda65352d2e)
+![QuizMania-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/5b678767-da5c-43ce-a044-db973ae46a1f)
 
 ## Snowboarding
 
