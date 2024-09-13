@@ -16,7 +16,7 @@ The game features two types of power-ups:
   
 However, if you get caught in a trap, the game restarts from the beginning. Successfully reaching the end of the dungeon lets you progress to the next level.
 
-Game Demo:
+Game Demo:  
 ![BalloonEscape-GIF](https://github.com/user-attachments/assets/35c23f67-5c70-4a87-bc5d-c8ca9659e582)
 
 ## Hunt Moster
