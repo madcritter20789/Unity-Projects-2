@@ -3,7 +3,7 @@
 
 It is a 2D platformer game where you control the character using the W, A, S, D keys or arrow keys for movement and jumping. The **goal is to collect as many coins as possible and reach the end of the level to advance to the next stage**. There are three types of coins, each awarding different points when collected.
 
-Game Demo:
+Game Demo:  
 ![2DPlatformer-Gif](https://github.com/user-attachments/assets/175801fe-9c2b-4f82-9a8f-1e495f1b1791)
 
 ## Balloon Escape
