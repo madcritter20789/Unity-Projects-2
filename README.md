@@ -4,7 +4,7 @@
 It is a 2D platformer game where you control the character using the W, A, S, D keys or arrow keys for movement and jumping. The **goal is to collect as many coins as possible and reach the end of the level to advance to the next stage**. There are three types of coins, each awarding different points when collected.
 
 Game Demo:  
-![2DPlatformer-Gif](https://github.com/user-attachments/assets/175801fe-9c2b-4f82-9a8f-1e495f1b1791)
+![2DPlatformer-GIF](https://github.com/user-attachments/assets/06ec7c42-a771-4035-8124-b064f20daf55)
 
 ## Balloon Escape
 
@@ -17,7 +17,7 @@ The game features two types of power-ups:
 However, if you get caught in a trap, the game restarts from the beginning. Successfully reaching the end of the dungeon lets you progress to the next level.
 
 Game Demo:
-Link
+![BalloonEscape-GIF](https://github.com/user-attachments/assets/35c23f67-5c70-4a87-bc5d-c8ca9659e582)
 
 ## Hunt Moster
 
@@ -41,7 +41,7 @@ The game features **three types of weapons, each with varying shooting power and
 After surviving several waves, a Boss Monster appears. **The boss can summon smaller monsters and enters a second phase when its health drops below half, where it becomes faster and more aggressive**.
 
 Game Demo:
-Link   
+![Uploading Hunt Monster.gif…]()
 
 ## QuizMania
 
@@ -53,7 +53,7 @@ Regardless of whether the answer is correct or incorrect, players will proceed t
 At the **end of the quiz, players are shown their total score**.
 
 Game Demo:
-Link  
+![QuizMania-GIF](https://github.com/user-attachments/assets/f3fc49c1-5f9a-40c0-97ed-1fda65352d2e)
 
 ## Snowboarding
 
@@ -66,7 +66,6 @@ The objective is to reach the end of the course while performing tricks along th
 If the character falls on its head or body, the game will restart, adding an element of challenge and encouraging players to master their controls.  
 
 Game Demo:
-Link  
 
 ## TileTrek
 
